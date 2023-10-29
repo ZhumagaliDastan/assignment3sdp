@@ -1,4 +1,4 @@
-Calculator
+#Calculator
 
 This is a simple calculator program that allows you to perform basic mathematical operations, such as addition, subtraction, multiplication, division, exponentiation, and calculating square roots. The program is implemented in Java and demonstrates the use of the Observer and Factory design patterns.
 Features
