@@ -1,5 +1,3 @@
-Certainly, here's a simple README file for your modified Calculator code:
-
 # Calculator
 
 This is a simple calculator program that allows you to perform basic mathematical operations, such as addition, subtraction, multiplication, division, exponentiation, and calculating square roots. The program is implemented in Java and demonstrates the use of the Observer and Factory design patterns.
@@ -42,9 +40,3 @@ This is a simple calculator program that allows you to perform basic mathematica
 - **Observer Pattern:** The program implements the Observer pattern to observe changes in the calculator's result. The `LoggingObserver` and `DisplayObserver` classes are used to log and display the result when it changes.
 
 - **Factory Pattern:** The program utilizes the Factory pattern to create different types of calculators. The `CalculatorFactory` interface and concrete factory classes (`BasicCalculatorFactory` and `LoggingCalculatorFactory`) demonstrate the Factory pattern.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as needed. See the [LICENSE](LICENSE) file for details.
-
-Feel free to modify and expand upon this README file to include additional details or instructions if needed.
